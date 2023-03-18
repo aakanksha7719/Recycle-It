@@ -1,8 +1,9 @@
 # Recycle-It🚀🚀
-Recycle It is a Garbage collection system which is a online platform for collecting garbage. This website allows to society
+Recycle-It is a Garbage collection system which is a online platform for collecting garbage. This website allows to society
 to give their waste to the different vendors which are unnecessarily unknown. By using Garbage collection
 website, the user can manage trash while sitting in a house so he doesn’t have to go anywhere. This website
 provides facility to user for collecting their waste easily.
+
 Technology makes life easy. There might be arguments regarding this statement but this project
 makes a sense that this idea modeling of a smart waste collection is way to healthy and hygienic life style.
 This environment friendly innovation makes sense also to the people of old school of thought as there is
